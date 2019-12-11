@@ -1,0 +1,70 @@
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+C:\Users\tcarv\source\repos\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.frmCalculator.resources
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.frmCalculator.resources
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+F:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.frmCalculator.resources
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+E:\CITPT 206\WindowsCalculator\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.frmCalculator.resources
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+E:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.frmCalculator.resources
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+G:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.frmCalculator.resources
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+F:\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.exe.config
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.exe
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\bin\Debug\WindowsCalculator.pdb
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csprojAssemblyReference.cache
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.frmCalculator.resources
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.Properties.Resources.resources
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.GenerateResource.cache
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.exe
+C:\Users\tcarv\Desktop\CITPT 206\WindowsCalculator - Copy\WindowsCalculator\obj\Debug\WindowsCalculator.pdb
